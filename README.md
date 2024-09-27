@@ -1,3 +1,5 @@
+Zaktualizowano ustawienia VS Code i konfigurację projektu
+
 # Project Title
 
 ## Description
